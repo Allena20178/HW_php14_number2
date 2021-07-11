@@ -51,7 +51,7 @@ function test_input($data) {
 </html>
 
 <?php
-echo "<h2>Your Input:</h2>";
+echo "<h2>Приятно познакомиться:</h2>";
 echo $firstName;
 echo "<br>";
 echo $lastName;
